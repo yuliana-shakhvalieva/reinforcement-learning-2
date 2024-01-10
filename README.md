@@ -1,6 +1,6 @@
 ## reinforcement-learning-2
 
-В этом репозитории представлено решение для задачи мультиагентного RL. Подробное описание решаемой задачи и используемого окружения (здесь)[https://github.com/ArgentumWalker/RL_course_Predators_and_Preys].
+В этом репозитории представлено решение для задачи мультиагентного RL. Подробное описание решаемой задачи и используемого окружения [здесь](https://github.com/ArgentumWalker/RL_course_Predators_and_Preys).
 
 #### Файлы:
 + agent.py - агент;
